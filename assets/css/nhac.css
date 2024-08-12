@@ -8,7 +8,6 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#main {}
 
 .header {
     top: 0;
@@ -94,7 +93,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/image/anh1.jpg') top center / cover no-repeat;
+    background: url('../image/anh1.jpg') top center / cover no-repeat;
 }
 
 #slider .text_conten {
@@ -294,13 +293,6 @@ html {
 .ticket_section{
     text-align: center;
 }
-.ticket_heading{
-    
-}
-.ticket_slogan{
-
-}
-/* modelllllllllllllllllllllllllllll */
 .modal{
     position: fixed;
     top: 0;
